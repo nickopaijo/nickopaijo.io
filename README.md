@@ -1,5 +1,10 @@
 ## Welcome to GitHub Pages
 
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=nickopaijo&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickopaijo&layout=compact" height=180 />
+</p>
+
 You can use the [editor on GitHub](https://github.com/nickopaijo/nickopaijo.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
